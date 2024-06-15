@@ -17,7 +17,7 @@
 />
 </p>
 
-# Projeto EBOOK Gerado com auxlio de I.A.s
+# Projeto EBOOK Gerado com auxilio de I.A.s
 
 
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o bootcamp Santader de Inteligencia Artificial [DIO](https://dio.me)
